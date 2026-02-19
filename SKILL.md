@@ -3,8 +3,9 @@ name: self-deprecation-first-strike
 description: Apply Bob Hope's "hit yourself first" strategy to earn audience goodwill before targeting others. This skill transforms personal vulnerabilities into comedic armor that makes subsequent jokes safer...
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4929
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - comedy
@@ -103,10 +104,10 @@ Apply Bob Hope's "hit yourself first" strategy to earn audience goodwill before 
 
 **Bob Hope Examples:**
 - Real: Played golf frequently, was decent player
-- Hope's version: 1.0.0"I've been playing the game so long that my handicap is in Roman numerals."
+- Hope's version: "I've been playing the game so long that my handicap is in Roman numerals."
 
 - Real: Was getting older
-- Hope's version: 1.0.0"I don't feel old. I don't feel anything until noon. Then it's time for my nap."
+- Hope's version: "I don't feel old. I don't feel anything until noon. Then it's time for my nap."
 
 **Formula:**
 ```
